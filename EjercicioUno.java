@@ -1,9 +1,7 @@
-# javaEjercicios
 
-ejercicio 1
 
 import java.util.Scanner;
-class Main {
+class EjercicioUno {
     public static void main(String[] args) {
        double numero1;
        double numero2;
